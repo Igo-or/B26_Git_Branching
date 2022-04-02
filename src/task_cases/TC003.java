@@ -5,5 +5,7 @@ public class TC003 {
 
         // First line of comment
 
+        // Second line of comment
+
     }
 }
